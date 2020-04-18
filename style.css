@@ -1,0 +1,118 @@
+* { padding: 0pc;
+    margin: 0pc;
+    font-family: u8, sans-serif;
+    box-sizing: border-box;
+    }
+    body { background-color: #8a88f3; position: relative;
+    text-align: center;
+}
+h1 {
+    padding: 10px;
+    color: rgb(202, 253, 100);
+}
+    .profile-pic img {
+        width: 120px;
+        border-radius: 50px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+       
+    }
+
+    form {
+        background-color: rgb(229, 235, 235);
+        max-width: 400px;
+        min-width: 100px;
+        margin: 0 auto;
+        border-style: double;
+        border-color: yellowgreen;
+        padding: 20px;
+        border-radius: 10px 10px 10px 10px;
+        
+
+    }
+     form .heading {
+        text-align: center;
+        color: rgb(35, 70, 2);
+        font-weight: bold;
+        font-family: u8, sans-serif;
+    
+    }
+     form .bio-data ul {
+        list-style: none;
+        font-size: .85rem;
+        margin: 0 auto;
+        color: rgb(255, 255, 255);
+        
+        
+    }
+     form .bio-data ul li {
+         border: 3px solid white;
+         padding: 0.80rem;
+         border-radius: 50px;
+         background-color: yellowgreen;
+         font-weight: bold;
+         
+    }
+    form h3{
+         padding: 5px;
+        font-weight: bold;
+        
+
+     }
+
+    form .hobby {
+        background-color: tomato;
+        padding: 1rem;
+        margin: 0 auto;
+        font-size: .85rem;
+        border: 1px solid white;
+        border-radius: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align: center;  
+    }
+    form .contact-group label {
+        font-size: .75rem;
+        display: block;
+        font-weight: 700;
+        margin-bottom: .75px;
+        
+        
+    }
+    form .contact-group {
+        margin-bottom: 5px;
+        background-color:rgb(238, 234, 186);
+        
+    }
+    
+ form .contact-group input {
+    width: 80%;
+    height: 30px;
+    font-size: 14px;
+    color: #2e202c;
+    background-color:rgb(247, 247, 247);
+    border: none;
+    padding: 10px;
+}
+form .send button {
+    width: 50%;
+    height: 50px;
+    background-color: rgb(0, 117, 172);
+    color: white;
+    padding: 20px 0;
+    text-transform: uppercase;
+    text-align: center;
+    
+    font-size: 14px;
+    border-radius: 30px;
+    font-weight: 700;}
+    
+footer {
+    
+    width: 100%;
+    bottom: 0rem;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    
+}
